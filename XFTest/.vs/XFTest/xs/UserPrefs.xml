@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{CC4711F5-FAE9-498D-B26B-C7C2B7087564}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFTest/Views/Calendar.xaml.cs">
+    <Files>
+      <File FileName="XFTest/Views/CleaningList.xaml.cs" Line="46" Column="50" />
+      <File FileName="XFTest/Views/Calendar.xaml.cs" Line="1378" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFTest" expanded="True">
+            <Node name="XFTest" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Calendar.xaml" expanded="True">
+                  <Node name="Calendar.xaml.cs" selected="True" />
+                </Node>
+                <Node name="CleaningList.xaml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XFTest.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.52004bb24b0a35ed" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.XFTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.74E11703-3EBF-4B3D-8DDB-9E2166AFE074" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
